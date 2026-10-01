@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# csv's
+/data
+/figs
+
+# cookies
+notebooks/www.youtube.com_cookies.txt
+
+.idea/
+.vscode/
